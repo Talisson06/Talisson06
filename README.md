@@ -9,7 +9,8 @@
 
 ![Talisson GitHub stats](https://github-readme-stats.vercel.app/api?username=Talisson06&show_icons=true&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Talisson06&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talisson06&layout=compact)
+
 
 ## Tecnologias que eu estou estudando/utilizando nos meus projetos
 
