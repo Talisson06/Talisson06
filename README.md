@@ -9,6 +9,8 @@
 
 ![Talisson GitHub stats](https://github-readme-stats.vercel.app/api?username=Talisson06&show_icons=true&theme=radical)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Talisson06&show_icons=true&theme=transparent)
+
 ## Tecnologias que eu estou estudando/utilizando nos meus projetos
 
 <div style="display: inline_block"><br/> 
